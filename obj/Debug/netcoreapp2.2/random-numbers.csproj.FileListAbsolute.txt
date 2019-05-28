@@ -1,0 +1,11 @@
+C:\Users\Mike\backend\random-numbers\bin\Debug\netcoreapp2.2\random-numbers.deps.json
+C:\Users\Mike\backend\random-numbers\bin\Debug\netcoreapp2.2\random-numbers.runtimeconfig.json
+C:\Users\Mike\backend\random-numbers\bin\Debug\netcoreapp2.2\random-numbers.runtimeconfig.dev.json
+C:\Users\Mike\backend\random-numbers\bin\Debug\netcoreapp2.2\random-numbers.dll
+C:\Users\Mike\backend\random-numbers\bin\Debug\netcoreapp2.2\random-numbers.pdb
+C:\Users\Mike\backend\random-numbers\obj\Debug\netcoreapp2.2\random-numbers.csprojAssemblyReference.cache
+C:\Users\Mike\backend\random-numbers\obj\Debug\netcoreapp2.2\random-numbers.csproj.CoreCompileInputs.cache
+C:\Users\Mike\backend\random-numbers\obj\Debug\netcoreapp2.2\random-numbers.AssemblyInfoInputs.cache
+C:\Users\Mike\backend\random-numbers\obj\Debug\netcoreapp2.2\random-numbers.AssemblyInfo.cs
+C:\Users\Mike\backend\random-numbers\obj\Debug\netcoreapp2.2\random-numbers.dll
+C:\Users\Mike\backend\random-numbers\obj\Debug\netcoreapp2.2\random-numbers.pdb
